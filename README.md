@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi Jiya Jain 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jiya-jain?theme=dark&font=Karma&ext=a)
 <!--
 **jiya-jain/jiya-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
